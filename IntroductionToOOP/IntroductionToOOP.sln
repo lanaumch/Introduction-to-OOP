@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToOOP", "IntroductionToOOP\IntroductionToOOP.csproj", "{55796C56-F464-4268-9442-AFDD59D76562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55796C56-F464-4268-9442-AFDD59D76562}.Debug|x86.ActiveCfg = Debug|x86
+		{55796C56-F464-4268-9442-AFDD59D76562}.Debug|x86.Build.0 = Debug|x86
+		{55796C56-F464-4268-9442-AFDD59D76562}.Release|x86.ActiveCfg = Release|x86
+		{55796C56-F464-4268-9442-AFDD59D76562}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
